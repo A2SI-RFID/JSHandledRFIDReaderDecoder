@@ -43,7 +43,6 @@ const HandledRFIDReaderDecoder = {
 	 * @returns {undefined}
 	 */
 	clear : () =>  {
-
 		_tag = "";
 	},
 	/**
@@ -55,7 +54,6 @@ const HandledRFIDReaderDecoder = {
 	onInput: (event, onValid) => {
 			// if code is 84, it a tag prefix => clear value
 			if (event.keyCode === 84) {
-
 				_tag = "";
 			} else if (event.keyCode === 13) { // validation on "Enter" case
 
