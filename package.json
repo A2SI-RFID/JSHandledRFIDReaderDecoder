@@ -1,0 +1,23 @@
+{
+  "name": "handled-rfid-reader-decoder",
+  "version": "0.1.0",
+  "description": "Helps decode Handled rfid reader message in the DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A2SI-RFID/JSHandledRFIDReaderDecoder.git"
+  },
+  "keywords": [
+    "RFID",
+    "A2SI"
+  ],
+  "author": "A2SI RFID",
+  "license": "GLP-3.0",
+  "bugs": {
+    "url": "https://github.com/A2SI-RFID/JSHandledRFIDReaderDecoder/issues"
+  },
+  "homepage": "https://github.com/A2SI-RFID/JSHandledRFIDReaderDecoder#readme"
+}
