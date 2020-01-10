@@ -1,6 +1,6 @@
 {
   "name": "handled-rfid-reader-decoder",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Helps decode Handled rfid reader message in the DOM",
   "main": "index.js",
   "scripts": {
